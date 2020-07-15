@@ -1,16 +1,11 @@
-
-
-<!--
-**noobboon7/noobboon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <p align="center">
-<a href= ""><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
-<a href= "https://linkedin.com/in/jerry-velazquez-8540b9bb/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= ""><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
-<a href= "https://twitter.com/JvScripts_"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://linkedin.com/in/jerry-velazquez-8540b9bb/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
+<a href= "https://twitter.com/JvScripts_"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
+<a href= "https://medium.com/@jvr572"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+<a href= "https://www.jerryvee.com/"><img src="https://img.icons8.com/nolan/50/web.png"/></a>
+
 </p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on princeton CS Courses...
 - 🌱 I’m currently learning System Designs...
