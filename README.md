@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **noobboon7/noobboon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <p align="center">
 <a href= ""><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://linkedin.com/in/jerry-velazquez-8540b9bb/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin...
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I like to build DIY products...
--->
+
