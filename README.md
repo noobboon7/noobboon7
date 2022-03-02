@@ -8,13 +8,14 @@
 
 
 ## Currently 
+- 🧑🏽‍💻 Working as a Software Reliability Engineer for client through Infosys in an Investment Bank.
 - 🔭 I’m currently working on getting certs in Microsoft Azure.
 - 🌱 I’m currently learning Cloud Development.
 
 ## Interested
-- 👯 I’m looking to Find a Cloud role and focus on cloud development.
-- 🤔 I’m looking for help with Finding a Software Engineering Role...
-- ⚡ Fun fact: I like to building lotto prediction algos...still not a millionaire 😹
+- 🔎 Finding a Cloud Development Role and focus on developmening systems.
+- 🤔 I’m looking for help with Finding a Software Engineering Role -> Cloud -> Architect 🤓
+- ⚡ Fun fact: I like to building lottery 🎰 prediction algorithms...still not a millionaire yet!😹
 
 ## Skills
 [![JavaScript_HTML_Python_CSS_Java_NodeJS_MySQL_PostgreSQL_ReactJS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_Python_CSS_Java_NodeJS_MySQL_PostgreSQL_ReactJS_)](https://pimp-my-readme.webapp.io)
