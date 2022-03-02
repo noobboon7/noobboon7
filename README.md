@@ -9,12 +9,11 @@
 
 ## Currently 
 - 🧑🏽‍💻 Working as a Software Reliability Engineer for client through Infosys in an Investment Bank.
-- 🔭 I’m currently working on getting certs in Microsoft Azure.
 - 🌱 I’m currently learning Cloud Development.
 
 ## Interested
 - 🔎 Finding a Cloud Development Role and focus on developmening systems.
-- 🤔 I’m looking for help with Finding a Software Engineering Role -> Cloud -> Architect 🤓
+- 🤔 I’m looking for help with Finding a Software Engineering Role to -> Cloud -> Architect 🤓
 - ⚡ Fun fact: I like to building lottery 🎰 prediction algorithms...still not a millionaire yet!😹
 
 ## Skills
