@@ -1,20 +1,33 @@
-[![Hi I Jerry_V, I'm a fullstack developer currently working as an SRE](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20fullstack%20developer%20currently%20doing%20SRE&title=Hi%20I%20JerryV)](https://pimp-my-readme.webapp.io)
+# Jerry V: Full Stack Developer & SRE
+
+![GitHub Banner](banner.png)
+
 <p align="center">
-<a href= "https://linkedin.com/in/jerry-velazquez-8540b9bb/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
-<a href= "https://twitter.com/JvScripts_"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
-<a href= "https://medium.com/@jvr572"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
-<a href= "https://www.jerryvee.com/"><img src="https://img.icons8.com/nolan/50/web.png"/></a>
+  <a href="https://linkedin.com/in/jerry-v-718212nyc/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
+  <a href="https://twitter.com/JvScripts_"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
+  <a href="https://medium.com/@jvr572"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+  <a href="https://www.jerryvee.com/"><img src="https://img.icons8.com/nolan/50/web.png"/></a>
 </p>
 
+## About Me
+- 🧑🏽‍💻 Full Stack Developer with a passion for tech, currently working as a Software Reliability Engineer for a client through Infosys in an Investment Bank.
+- 🌱 Continuously learning and expanding my knowledge in Cloud Development.
+- 💼 Actively seeking a Cloud Development Role, with the goal of transitioning into Cloud Architecture.
 
-## Currently 
-- 🧑🏽‍💻 Working as a Software Reliability Engineer for client through Infosys in an Investment Bank.
-- 🌱 I’m currently learning Cloud Development.
-
-## Interested
-- 🔎 Finding a Cloud Development Role and focus on developmening systems.
-- 🤔 I’m looking for help with Finding a Software Engineering Role to -> Cloud -> Architect 🤓
-- ⚡ Fun fact: I like to building lottery 🎰 prediction algorithms...still not a millionaire yet!😹
+## Interests
+- 🔎 Exploring Cloud technologies and focusing on designing and developing scalable systems.
+- 🤔 Looking for guidance and opportunities to transition into a Software Engineering Role that leads to Cloud and Architect positions.
+- ⚡ Fun fact: I enjoy building lottery 🎰 prediction algorithms...still not a millionaire yet! 😹
 
 ## Skills
-[![JavaScript_HTML_Python_CSS_Java_NodeJS_MySQL_PostgreSQL_ReactJS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_Python_CSS_Java_NodeJS_MySQL_PostgreSQL_ReactJS_)](https://pimp-my-readme.webapp.io)
+- Languages: JavaScript, HTML, Python, CSS, Java
+- Frameworks & Libraries: Node.js, React.js
+- Databases: MySQL, PostgreSQL
+
+## Current Projects
+### 1. [StockwisePL](https://github.com/username/StockwisePL)
+A personalized P&L tracker for your stock portfolio, providing insightful analysis and empowering smarter investment decisions.
+
+
+## Contact
+Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/jerry-v-718212nyc/) or [Twitter](https://twitter.com/JvScripts_) for any inquiries or collaboration opportunities.
