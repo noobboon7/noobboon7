@@ -1,6 +1,6 @@
 # Jerry V: Full Stack Developer & SRE
 
-![GitHub Banner](banner.png)
+![GitHub Banner](github-header-image.png)
 
 <p align="center">
   <a href="https://linkedin.com/in/jerry-v-718212nyc/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
