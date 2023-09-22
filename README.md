@@ -24,9 +24,6 @@
 - Frameworks & Libraries: Node.js, React.js
 - Databases: MySQL, PostgreSQL
 
-## Current Projects
-### 1. [StockwisePL](https://github.com/username/StockwisePL)
-A personalized P&L tracker for your stock portfolio, providing insightful analysis and empowering smarter investment decisions.
 
 
 ## Contact
