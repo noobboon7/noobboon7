@@ -5,26 +5,24 @@
 <p align="center">
   <a href="https://linkedin.com/in/jerry-v-718212nyc/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
   <a href="https://twitter.com/JvScripts_"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
-  <a href="https://medium.com/@jvr572"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
-  <a href="https://www.jerryvee.com/"><img src="https://img.icons8.com/nolan/50/web.png"/></a>
 </p>
 
 ## About Me
-- 🧑🏽‍💻 Full Stack Developer with a passion for tech, currently working as a Software Reliability Engineer for a client through Infosys in an Investment Bank.
-- 🌱 Continuously learning and expanding my knowledge in Cloud Development.
-- 💼 Actively seeking a Cloud Development Role, with the goal of transitioning into Cloud Architecture.
+- 🧑🏽‍💻 Full Stack Software Engineer with a passion for technology and innovation.
+- 🌱 Continuously learning and expanding my knowledge in Cloud Development and Cybersecurity.
+- 💼 Actively seeking a Cloud Development Role to transition into Cloud Architecture.
 
 ## Interests
 - 🔎 Exploring Cloud technologies and focusing on designing and developing scalable systems.
-- 🤔 Looking for guidance and opportunities to transition into a Software Engineering Role that leads to Cloud and Architect positions.
-- ⚡ Fun fact: I enjoy building lottery 🎰 prediction algorithms...still not a millionaire yet! 😹
+- 🤔 Interested in Cybersecurity and learning networking concepts; side note: also talk stock market with me.
+- ⚡ Fun fact: I love competitive sports and feel challenged.
 
 ## Skills
-- Languages: JavaScript, HTML, Python, CSS, Java
-- Frameworks & Libraries: Node.js, React.js
-- Databases: MySQL, PostgreSQL
+- Languages: Python, JavaScript, Java
+- Frameworks & Libraries: Node.js, React.js, .Net, 
+- Databases: MySQL, PostgreSQL, Redis 
 
 
 
 ## Contact
-Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/jerry-v-718212nyc/) or [Twitter](https://twitter.com/JvScripts_) for any inquiries or collaboration opportunities.
+Please feel free to contact me through [LinkedIn](https://linkedin.com/in/jerry-v-718212nyc/) or [X](https://twitter.com/JvScripts_) for any questions
